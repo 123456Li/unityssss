@@ -27,7 +27,7 @@
 *.exe
 *.out
 *.app
-/Library/*
-/*.csproj/*
-/*.userprefs/*
+/kaoshi/Library/*
+/kaoshi/*.csproj/*
+/kaoshi/*.userprefs/*
 
